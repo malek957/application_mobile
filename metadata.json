@@ -1,0 +1,13 @@
+{
+  "name": "Audience Engine",
+  "description": "Système multimodal de mesure d'audience TV & Radio en temps réel, respectueux de la vie privée.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Mobile Audience Measurement",
+    "Real-time TV/Radio Detection",
+    "Privacy-First Data Collection",
+    "Interactive Gamification"
+  ]
+}
